@@ -1,0 +1,15 @@
+E:\Treinamento\c#\Dio C#\ProjetosCSharp\ExemploFundamentos\dio.me-csharp\ExemploFundamentos.NET8\bin\Debug\net8.0\ExemploFundamentos.NET8.exe
+E:\Treinamento\c#\Dio C#\ProjetosCSharp\ExemploFundamentos\dio.me-csharp\ExemploFundamentos.NET8\bin\Debug\net8.0\ExemploFundamentos.NET8.deps.json
+E:\Treinamento\c#\Dio C#\ProjetosCSharp\ExemploFundamentos\dio.me-csharp\ExemploFundamentos.NET8\bin\Debug\net8.0\ExemploFundamentos.NET8.runtimeconfig.json
+E:\Treinamento\c#\Dio C#\ProjetosCSharp\ExemploFundamentos\dio.me-csharp\ExemploFundamentos.NET8\bin\Debug\net8.0\ExemploFundamentos.NET8.dll
+E:\Treinamento\c#\Dio C#\ProjetosCSharp\ExemploFundamentos\dio.me-csharp\ExemploFundamentos.NET8\bin\Debug\net8.0\ExemploFundamentos.NET8.pdb
+E:\Treinamento\c#\Dio C#\ProjetosCSharp\ExemploFundamentos\dio.me-csharp\ExemploFundamentos.NET8\obj\Debug\net8.0\ExemploFundamentos.NET8.GeneratedMSBuildEditorConfig.editorconfig
+E:\Treinamento\c#\Dio C#\ProjetosCSharp\ExemploFundamentos\dio.me-csharp\ExemploFundamentos.NET8\obj\Debug\net8.0\ExemploFundamentos.NET8.AssemblyInfoInputs.cache
+E:\Treinamento\c#\Dio C#\ProjetosCSharp\ExemploFundamentos\dio.me-csharp\ExemploFundamentos.NET8\obj\Debug\net8.0\ExemploFundamentos.NET8.AssemblyInfo.cs
+E:\Treinamento\c#\Dio C#\ProjetosCSharp\ExemploFundamentos\dio.me-csharp\ExemploFundamentos.NET8\obj\Debug\net8.0\ExemploFundamentos.NET8.csproj.CoreCompileInputs.cache
+E:\Treinamento\c#\Dio C#\ProjetosCSharp\ExemploFundamentos\dio.me-csharp\ExemploFundamentos.NET8\obj\Debug\net8.0\ExemploFundamentos.NET8.sourcelink.json
+E:\Treinamento\c#\Dio C#\ProjetosCSharp\ExemploFundamentos\dio.me-csharp\ExemploFundamentos.NET8\obj\Debug\net8.0\ExemploFundamentos.NET8.dll
+E:\Treinamento\c#\Dio C#\ProjetosCSharp\ExemploFundamentos\dio.me-csharp\ExemploFundamentos.NET8\obj\Debug\net8.0\refint\ExemploFundamentos.NET8.dll
+E:\Treinamento\c#\Dio C#\ProjetosCSharp\ExemploFundamentos\dio.me-csharp\ExemploFundamentos.NET8\obj\Debug\net8.0\ExemploFundamentos.NET8.pdb
+E:\Treinamento\c#\Dio C#\ProjetosCSharp\ExemploFundamentos\dio.me-csharp\ExemploFundamentos.NET8\obj\Debug\net8.0\ExemploFundamentos.NET8.genruntimeconfig.cache
+E:\Treinamento\c#\Dio C#\ProjetosCSharp\ExemploFundamentos\dio.me-csharp\ExemploFundamentos.NET8\obj\Debug\net8.0\ref\ExemploFundamentos.NET8.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Treinamento\\c#\\Dio C#\\ProjetosCSharp\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj": {}
+    "E:\\Treinamento\\c#\\Dio C#\\ProjetosCSharp\\ExemploFundamentos\\dio.me-csharp\\ExemploFundamentos\\ExemploFundamentos.csproj": {}
   },
   "projects": {
-    "E:\\Treinamento\\c#\\Dio C#\\ProjetosCSharp\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+    "E:\\Treinamento\\c#\\Dio C#\\ProjetosCSharp\\ExemploFundamentos\\dio.me-csharp\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Treinamento\\c#\\Dio C#\\ProjetosCSharp\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+        "projectUniqueName": "E:\\Treinamento\\c#\\Dio C#\\ProjetosCSharp\\ExemploFundamentos\\dio.me-csharp\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
         "projectName": "ExemploFundamentos.Common",
-        "projectPath": "E:\\Treinamento\\c#\\Dio C#\\ProjetosCSharp\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
+        "projectPath": "E:\\Treinamento\\c#\\Dio C#\\ProjetosCSharp\\ExemploFundamentos\\dio.me-csharp\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj",
         "packagesPath": "C:\\Users\\USERS\\.nuget\\packages\\",
-        "outputPath": "E:\\Treinamento\\c#\\Dio C#\\ProjetosCSharp\\ExemploFundamentos\\ExemploFundamentos.Common\\obj\\",
+        "outputPath": "E:\\Treinamento\\c#\\Dio C#\\ProjetosCSharp\\ExemploFundamentos\\dio.me-csharp\\ExemploFundamentos.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "E:\\Treinamento\\c#\\Dio C#\\ProjetosCSharp\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj": {
+    "E:\\Treinamento\\c#\\Dio C#\\ProjetosCSharp\\ExemploFundamentos\\dio.me-csharp\\ExemploFundamentos\\ExemploFundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Treinamento\\c#\\Dio C#\\ProjetosCSharp\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
+        "projectUniqueName": "E:\\Treinamento\\c#\\Dio C#\\ProjetosCSharp\\ExemploFundamentos\\dio.me-csharp\\ExemploFundamentos\\ExemploFundamentos.csproj",
         "projectName": "ExemploFundamentos",
-        "projectPath": "E:\\Treinamento\\c#\\Dio C#\\ProjetosCSharp\\ExemploFundamentos\\ExemploFundamentos\\ExemploFundamentos.csproj",
+        "projectPath": "E:\\Treinamento\\c#\\Dio C#\\ProjetosCSharp\\ExemploFundamentos\\dio.me-csharp\\ExemploFundamentos\\ExemploFundamentos.csproj",
         "packagesPath": "C:\\Users\\USERS\\.nuget\\packages\\",
-        "outputPath": "E:\\Treinamento\\c#\\Dio C#\\ProjetosCSharp\\ExemploFundamentos\\ExemploFundamentos\\obj\\",
+        "outputPath": "E:\\Treinamento\\c#\\Dio C#\\ProjetosCSharp\\ExemploFundamentos\\dio.me-csharp\\ExemploFundamentos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Treinamento\\c#\\Dio C#\\ProjetosCSharp\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
-                "projectPath": "E:\\Treinamento\\c#\\Dio C#\\ProjetosCSharp\\ExemploFundamentos\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
+              "E:\\Treinamento\\c#\\Dio C#\\ProjetosCSharp\\ExemploFundamentos\\dio.me-csharp\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj": {
+                "projectPath": "E:\\Treinamento\\c#\\Dio C#\\ProjetosCSharp\\ExemploFundamentos\\dio.me-csharp\\ExemploFundamentos.Common\\ExemploFundamentos.Common.csproj"
               }
             }
           }
