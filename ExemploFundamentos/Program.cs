@@ -1,9 +1,59 @@
 ﻿using ExemploFundamentos.Common.Models;
 
-Pessoa pessoa1 = new Pessoa();
-pessoa1.Nome = "Gilson";
-pessoa1.Idade = 45;
-pessoa1.Apresentar();
+List<string> listaString = new List<string>();
+listaString.Add("SP");
+listaString.Add("BA");
+listaString.Add("MG");
+listaString.Add("SC");
+
+
+Console.WriteLine($"Itens da lista: {listaString.Count} - capacidade : {listaString.Capacity}");
+
+listaString.Add("ES");
+Console.WriteLine($"Itens da lista: {listaString.Count} - capacidade : {listaString.Capacity}");
+
+listaString.Remove("PI");
+Console.WriteLine($"Itens da lista: {listaString.Count} - capacidade : {listaString.Capacity}");
+
+// for (int contador = 0; contador < listaString.Count; contador++)
+// {
+//     Console.WriteLine($"O nome do estado é: {listaString[contador]}, e a posição do Array é: {contador}");
+// }
+// int contador = 0;
+// foreach (string estado in listaString)
+// {
+//     Console.WriteLine($"A lista de estado é: {estado}, e a posição do array é: {contador}");
+//     contador++;
+// }
+
+
+// int[] arrayInteiros = new int[4];
+
+// arrayInteiros[0] = 10;
+// arrayInteiros[1] = 20;
+// arrayInteiros[2] = 30;
+// arrayInteiros[3] = 40;
+
+
+// int[] arrayInteirosDobrabo = new int[arrayInteiros.Length * 2];
+// Array.Copy(arrayInteiros, arrayInteirosDobrabo, arrayInteiros.Length);
+
+// Array.Resize(ref arrayInteiros, arrayInteiros.Length * 2);
+
+// foreach(int valor in arrayInteiros)
+// {
+//     Console.WriteLine(valor);
+// }
+
+// for (int contador = 0; contador < arrayInteiros.Length; contador++)
+// {
+//   Console.WriteLine($"Posicao N{contador} - {arrayInteiros[contador]}");
+// }
+
+// Pessoa pessoa1 = new Pessoa();
+// pessoa1.Nome = "Gilson";
+// pessoa1.Idade = 45;
+// pessoa1.Apresentar();
 
 
 
