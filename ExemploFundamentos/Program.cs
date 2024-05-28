@@ -19,12 +19,12 @@ Console.WriteLine($"Itens da lista: {listaString.Count} - capacidade : {listaStr
 // {
 //     Console.WriteLine($"O nome do estado é: {listaString[contador]}, e a posição do Array é: {contador}");
 // }
-// int contador = 0;
-// foreach (string estado in listaString)
-// {
-//     Console.WriteLine($"A lista de estado é: {estado}, e a posição do array é: {contador}");
-//     contador++;
-// }
+int contador = 0;
+foreach (string estado in listaString)
+{
+    Console.WriteLine($"A lista de estado é: {estado}, e a posição do array é: {contador}");
+    contador++;
+}
 
 
 // int[] arrayInteiros = new int[4];
